@@ -5,6 +5,8 @@ Abstract—In recent years, with the advancement of deep learning technology, th
 Keywords-object detection; deep learning; transformer; yolo; industrial component defect
 
 
+https://doi.org/10.1145/3677182.3677297
+
 
 
 ![1](1.jpg)
